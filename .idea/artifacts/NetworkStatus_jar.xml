@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NetworkStatus:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NetworkStatus_jar</output-path>
+    <root id="archive" name="NetworkStatus.jar">
+      <element id="module-output" name="NetworkStatus" />
+    </root>
+  </artifact>
+</component>
